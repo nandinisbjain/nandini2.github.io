@@ -1,0 +1,24 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.font_start{
+  font-family: 'Kaushan Script', cursive;
+}
+.font_subhead{
+  font-family: 'Quicksand', sans-serif;
+  /*font-size: 48px;*/
+  text-shadow: 4px 4px 4px #97FFFF;
+
+}
